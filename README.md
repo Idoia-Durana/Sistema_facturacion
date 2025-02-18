@@ -1,5 +1,6 @@
-#Sistema de Facturación
-Sistema de Facturación es una aplicación diseñada para gestionar el proceso de compra de productos. Los usuarios pueden seleccionar productos, los cuales se van sumando a la factura, y al finalizar la compra, se genera un total que puede ser pagado.
+# Sistema de Facturación
+
+#Sistema de Facturación es una aplicación diseñada para gestionar el proceso de compra de productos. Los usuarios pueden seleccionar productos, los cuales se van sumando a la factura, y al finalizar la compra, se genera un total que puede ser pagado.
 Características Principales
 Selección de Productos: Los usuarios pueden elegir entre una lista de productos disponibles.
 Cálculo Dinámico: El total de la factura se actualiza automáticamente a medida que se añaden productos.
